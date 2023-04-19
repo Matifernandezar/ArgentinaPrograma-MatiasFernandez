@@ -1,0 +1,65 @@
+.bg-violet {
+  background-color: #000;
+}
+section.banner{
+  background-image: url(bannernegro.jpg);
+  width: 100%;
+  height: 95vh;
+  background-repeat: no repeat;
+  justify-content: center;
+  align-items: center;
+  position:relative;
+}
+h1.intro{
+ padding-top:10%;
+ font-size: 3rem;
+ font-family: 'Times New Roman', Times, serif;
+ text-align: center;
+ justify-content: center;
+
+}
+.fondo-bueno{
+  background-image: url(bannerlindo.jpg);
+}
+.subtitulos{
+color:white;
+align-items: center;
+margin: top 5px;
+
+}
+
+
+.foot{
+  background-color: #000;
+  color:white;
+  text-align: center;
+  border: 20px solid black;
+  
+}
+footer.bg-black {
+  text-align: center;
+  width: 100%;
+  height: 100%;
+  padding:1rem;
+  
+}
+.login{
+  height: 76vh;
+
+}
+#formulario-login {
+  /* Agrega tus estilos aquí */
+  margin-top: 10%;
+ 
+}
+.perfil{
+  width: 60%;
+}
+.admin{
+  font-size: 1.5rem;
+  text-decoration: none;
+}
+.link{
+  text-decoration: none;
+  color:#000;
+}

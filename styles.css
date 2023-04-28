@@ -2,7 +2,7 @@
   background-color: #000;
 }
 section.banner{
-  background-image: url(bannernegro.jpg);
+  background-image: url(ProyectoIntegrador/src/assets/bannernegro.jpg);
   width: 100%;
   height: 95vh;
   background-repeat: no repeat;
@@ -19,7 +19,7 @@ h1.intro{
 
 }
 .fondo-bueno{
-  background-image: url(bannerlindo.jpg);
+  background-image: url(ProyectoIntegrador/src/assets/bannerlindo.jpg);
 }
 .subtitulos{
 color:white;
